@@ -1,0 +1,6 @@
+/.idea/
+/gomodtest.iml
+/test_write_fibonacci2.txt
+/data/source.in
+/data/source.out
+.DS_Store
